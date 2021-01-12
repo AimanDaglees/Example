@@ -1,0 +1,5 @@
+sl_table:
+  header: true
+  css:
+    theme:
+      assets/css/table.css: {}
